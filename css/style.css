@@ -7,6 +7,9 @@ a {
   margin: 0 10px;
   color: rgb(51, 32, 15);
 }
+.email-link {
+  margin: 0;
+}
 img {
   display: block;
   margin: 30px auto;
